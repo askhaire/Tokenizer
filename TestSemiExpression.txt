@@ -1,0 +1,15 @@
+#include<iostream>
+#include<string>
+class Testing
+{
+public:
+int a,b,c;
+protected:
+
+
+for(int i=0;i<=9;i++)
+{
+std::cout<<"Folding of for loop";
+}
+HELLO_THERE;
+}

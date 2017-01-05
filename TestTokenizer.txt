@@ -1,0 +1,6 @@
+Testing Tokenizer
+/*This is a C Comment*/
+//This is a Cpp comment
+"this is a \"string\""
+@<<::[]??//"?" set as special single character
+
